@@ -1,9 +1,9 @@
 {
   "item.practicemod.zircium": "Zircium",
 
-  "block.practicemod.ziricium_block": "Block of Ziricium",
-  "block.practicemod.ziricium_ore": "Ziricium Ore",
-  "block.practicemod.deepslate_ziricium_ore": "Deepslate Ziricium Ore",
+  "block.practicemod.zircium_block": "Block of Zircium",
+  "block.practicemod.zircium_ore": "Zircium Ore",
+  "block.practicemod.deepslate_zircium_ore": "Deepslate Zircium Ore",
 
   "itemGroup.practicemod.zircium": "Jankoy's Practice Mod"
 }
