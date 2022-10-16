@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_all",
+	"texture_size": [64, 64],
+	"textures": {
+		"all": "practicemod:block/zircium_block"
+	}
+}

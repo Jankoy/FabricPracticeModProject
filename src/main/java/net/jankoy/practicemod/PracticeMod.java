@@ -1,6 +1,8 @@
 package net.jankoy.practicemod;
 
 import net.fabricmc.api.ModInitializer;
+import net.jankoy.practicemod.block.ModBlocks;
+import net.jankoy.practicemod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,6 +12,7 @@ public class PracticeMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
